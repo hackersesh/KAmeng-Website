@@ -1,1 +1,1 @@
-The folder contains the files foe the Orbital Simulator
+The folder contains the files for the Orbital Simulator
